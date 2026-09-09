@@ -91,3 +91,23 @@ $$\text{Nested TTSS} = \text{Nested TSS} \times \text{Active Years Competed}$$
 | **7** | Rajasthan Royals (RR) | 19 | 73.13 | 21 | 3.4823 | **66.16** | Initial 2008 championship heavily diluted by long mid-era dry spells. |
 | **8** | Delhi Capitals (DC) | 19 | 74.45 | 17 | 4.3794 | **83.20** | Suffers immense penalty accumulation from decades of missing playoffs. |
 | **9** | Punjab Kings (PBKS) | 19 | 75.20 | 14 | 5.3714 | **102.05** | **Systemic Underperformance.** Consistently choked at the baseline tier. |
+
+ ## 4. How to Use the Python Engine
+
+You do not need to be a software engineer to run this framework. Follow these simple steps to calculate your own sports datasets:
+
+### Prerequisites
+Make sure you have **Python** installed on your computer. If you do not have it, download it for free from [python.org](https://python.org).
+
+### Step-by-Step Guide
+1. **Download the Engine:** Click on the `ttss_engine.py` file above in this repository, then click the **Download raw file** button (the small arrow icon at the top right of the code window) to save it to your computer.
+2. **Open the File:** Open the `ttss_engine.py` file using any text editor (like Notepad on Windows or TextEdit on Mac).
+3. **Input Your Data:** Scroll down to the `historical_db` section at the bottom of the script. Change the team names and plug in your own data numbers using this exact format:
+   ```python
+   "Your Team Name": {"sum_tss": [Total TSS Sum], "rounds": [Total Knockout Rounds], "years": [Active Years]}
+   ```
+4. **Run the Script:** Open your computer's terminal or command prompt, navigate to the folder where you saved the file, and type:
+   ```bash
+   python ttss_engine.py
+   ```
+5. **View the Output:** The engine will instantly execute your three-tier logic and print a perfectly sorted leaderboard directly onto your screen from most successful (lowest score) to least successful (highest score).
