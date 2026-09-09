@@ -72,9 +72,22 @@ $$\text{Nested TTSS} = \text{Nested TSS} \times \text{Active Years Competed}$$
 
 ---
 
+---
+
 ### Case Study C: Indian Premier League Cricket (2008–2026)
-*Demonstrates how the longevity tax handles structural shifts and expansion teams like Gujarat Titans (GT).*
-* **Gujarat Titans (GT):** Sum of TSS: 22.20 | Rounds: 8 | Years: 5 | **Nested TTSS: 13.87** (Rank 1)
-* **Chennai Super Kings (CSK):** Sum of TSS: 62.41 | Rounds: 37 | Years: 19 | **Nested TTSS: 32.03** (Rank 2)
-* **Sunrisers Hyderabad (SRH):** Sum of TSS: 71.92 | Rounds: 22 | Years: 14 | **Nested TTSS: 45.76** (Rank 4)
-* **Royal Challengers Bengaluru (RCB):** Sum of TSS: 68.31 | Rounds: 26 | Years: 19 | **Nested TTSS: 49.91** (Rank 6)
+*Evaluates franchise cricket organizational efficiency across 19 seasons, perfectly managing the structural change from the early 4-team Semifinals format to the modern Page Playoff matrix, and applying the longevity tax to evaluate new expansion teams side-by-side with founding franchises.*
+
+#### Macro Historical Leaderboard
+*Sorted strictly by: Lowest Nested TTSS = 1st Rank.*
+
+| Rank | Franchise | Years Active | Sum of All Years TSS | Total Knockout Rounds Played | Nested TSS (Sum ÷ Rounds) | **Nested TTSS (Nested TSS × Years)** | Ultimate Performance Status |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| 🥇 **1** | Gujarat Titans (GT) | 5 | 22.20 | 8 | 2.7750 | **13.87** | **Peak Efficiency Leader.** Highly protected by an explosive 5-year active lifespan. |
+| 🥈 **2** | Chennai Super Kings (CSK) | 19 | 62.41 | 37 | 1.6867 | **32.03** | **Ultimate Old Dynasty.** Record-breaking 37-round pool absorbs longevity tax. |
+| 🥉 **3** | Mumbai Indians (MI) | 19 | 66.01 | 34 | 1.9414 | **36.88** | Elite institutional strength backed heavily by their 5-trophy density. |
+| **4** | Sunrisers Hyderabad (SRH) | 14 | 71.92 | 22 | 3.2690 | **45.76** | **Flaw Fixed.** Shorter operational lifespan allows them to cleanly defeat RCB. |
+| **5** | Kolkata Knight Riders (KKR) | 19 | 69.11 | 27 | 2.5596 | **48.62** | Very steady macro-performer across two full operational decades. |
+| **6** | Royal Challengers Bengaluru (RCB) | 19 | 68.31 | 26 | 2.6273 | **49.91** | Heavily taxed for early-era playoff droughts despite late-era dominance. |
+| **7** | Rajasthan Royals (RR) | 19 | 73.13 | 21 | 3.4823 | **66.16** | Initial 2008 championship heavily diluted by long mid-era dry spells. |
+| **8** | Delhi Capitals (DC) | 19 | 74.45 | 17 | 4.3794 | **83.20** | Suffers immense penalty accumulation from decades of missing playoffs. |
+| **9** | Punjab Kings (PBKS) | 19 | 75.20 | 14 | 5.3714 | **102.05** | **Systemic Underperformance.** Consistently choked at the baseline tier. |
